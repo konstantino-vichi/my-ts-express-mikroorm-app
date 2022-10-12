@@ -1,0 +1,8 @@
+{
+  "name": "my-ts-express-mikroorm-app",
+  "version": "0.0.2",
+  "main": "index.ts",
+  "repository": "https://github.com/konstantino-vichi/my-ts-express-mikroorm-app.git",
+  "author": "Konstantino.Vichi",
+  "license": "MIT"
+}
